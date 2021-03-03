@@ -16,4 +16,4 @@ Document all the steps along the way and make a pr for each step on the way and 
 ### Tips 
 
 - Python (datetime)[https://docs.python.org/3/library/datetime.html]
-- Fastapi (here)[meet.google.com/swu-urwo-muc]
+- Fastapi (here)[https://fastapi.tiangolo.com/]
